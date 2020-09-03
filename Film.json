@@ -16,10 +16,10 @@
       "Nom": "Michael Keaton",
       "Personnage": "Walter Nelson (voix)"
     }
-  ]
-  "budget":"654$"
-  "totalSem1USA":"6543$"
-  "totalUSA":"76548743$"
+  ],
+  "budget":"654$",
+  "totalSem1USA":"6543$",
+  "totalUSA":"76548743$",
   "totalMonde":"76359863527$"
 }
 
@@ -44,10 +44,10 @@
       "Personnage": "Robert 'Bob' Paulsen"
       "Age":"61"
     }
-  ]
-  "description":"An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more."
-  "budget":"6543863572$"
-  "totalSem1USA":"4532$"
-  "totalUSA":"24367$"
+  ],
+  "description":"An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+  "budget":"6543863572$",
+  "totalSem1USA":"4532$",
+  "totalUSA":"24367$",
   "totalMonde":"24367$"
 }
