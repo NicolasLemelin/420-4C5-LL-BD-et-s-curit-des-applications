@@ -1,27 +1,4 @@
 {
-  "Titre": "Les Minions",
-  "directeur": "Kyle Balda, Pierre Coffin",
-  "Auteur": "Brian Lynch,",
-  "Date": 2015,
-  "Vedette": [
-    {
-      "Nom": "Sandra Bullock",
-      "Personnage": "Scarlet Overkill (voix)"
-    },
-    {
-      "Nom": "Jon Hamm",
-      "Personnage": "Herb Overkill  (voix)"
-    },
-    {
-      "Nom": "Michael Keaton",
-      "Personnage": "Walter Nelson (voix)"
-    }
-  ],
-  "budget":"654$",
-  "totalSem1USA":"6543$",
-  "totalUSA":"76548743$",
-  "totalMonde":"76359863527$"
-
   "Titre": "Fight Club",
   "directeur": "David Fincher",
   "Auteur": "Chuck Palahniuk (novel), Jim Uhls (screenplay)",
