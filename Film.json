@@ -31,17 +31,17 @@
   "Vedette": [
     {
       "Nom": "Brad Pitt",
-      "Personnage": "Tyler Durden"
+      "Personnage": "Tyler Durden",
       "Age":"24"
     },
     {
       "Nom": "Edward Norton",
-      "Personnage": "The Narrator"
+      "Personnage": "The Narrator",
       "Age":"25"
     },
     {
       "Nom": "Meat Loaf",
-      "Personnage": "Robert 'Bob' Paulsen"
+      "Personnage": "Robert 'Bob' Paulsen",
       "Age":"61"
     }
   ],
